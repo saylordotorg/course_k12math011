@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12MATH011: Algebra II"
+course_description: "This course is an overview of the fundamentals of algebraic expressions, including adding, multiplying, factoring, and simplifying, solving equations and inequalities, performing operations on functions, and performing graphing and basic functional analysis."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Conic Sections** <span id="8"></span> 
 *In this unit, you will be introduced to the connection between geometry
 and algebra, called conic sections, which will play an important role

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12MATH011: Algebra II"
+course_description: "This course is an overview of the fundamentals of algebraic expressions, including adding, multiplying, factoring, and simplifying, solving equations and inequalities, performing operations on functions, and performing graphing and basic functional analysis."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Exponential and Logarithmic Functions** <span id="7"></span> 
 *In this unit, you will be introduced to exponential and logarithmic
 expressions, equations, and inequalities. You will also become familiar

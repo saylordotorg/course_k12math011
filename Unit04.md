@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12MATH011: Algebra II"
+course_description: "This course is an overview of the fundamentals of algebraic expressions, including adding, multiplying, factoring, and simplifying, solving equations and inequalities, performing operations on functions, and performing graphing and basic functional analysis."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: General Polynomial Functions** <span id="4"></span> 
 *Having been introduced to first-power (linear) and second-power
 (quadratic) forms, you are now ready to approach general polynomial

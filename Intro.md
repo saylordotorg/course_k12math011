@@ -1,4 +1,11 @@
-Course Syllabus for "K12MATH011: Algebra II "
+---
+layout: default
+title: "K12MATH011: Algebra II"
+course_description: "This course is an overview of the fundamentals of algebraic expressions, including adding, multiplying, factoring, and simplifying, solving equations and inequalities, performing operations on functions, and performing graphing and basic functional analysis."
+next: ../Unit01
+previous: ../../../
+---
+Course Syllabus for "K12MATH011: Algebra II"
 ---------------------------------------------
 
 The purpose of this course is to familiarize you with the fundamentals

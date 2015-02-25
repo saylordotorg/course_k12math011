@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12MATH011: Algebra II"
+course_description: "This course is an overview of the fundamentals of algebraic expressions, including adding, multiplying, factoring, and simplifying, solving equations and inequalities, performing operations on functions, and performing graphing and basic functional analysis."
+next: ../../../
+previous: ../Unit08
+---
 **Unit 9: Sequences and Series** <span id="9"></span> 
 *In this final unit, you will be introduced to sequences and series. A
 sequence is a function defined over the positive integers. A series is a

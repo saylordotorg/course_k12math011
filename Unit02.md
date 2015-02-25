@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12MATH011: Algebra II"
+course_description: "This course is an overview of the fundamentals of algebraic expressions, including adding, multiplying, factoring, and simplifying, solving equations and inequalities, performing operations on functions, and performing graphing and basic functional analysis."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Linear Systems** <span id="2"></span> 
 *In unit 2, you will move from simple linear equations and inequalities
 to begin an exploration of more complex systems of equations and

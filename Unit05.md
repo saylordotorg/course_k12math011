@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12MATH011: Algebra II"
+course_description: "This course is an overview of the fundamentals of algebraic expressions, including adding, multiplying, factoring, and simplifying, solving equations and inequalities, performing operations on functions, and performing graphing and basic functional analysis."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Rational Functions** <span id="5"></span> 
 *The first variation you will experience from polynomial functions is
 the set of rational functions, which involves expressions that contain

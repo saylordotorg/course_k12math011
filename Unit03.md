@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12MATH011: Algebra II"
+course_description: "This course is an overview of the fundamentals of algebraic expressions, including adding, multiplying, factoring, and simplifying, solving equations and inequalities, performing operations on functions, and performing graphing and basic functional analysis."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Quadratic Equations and Functions** <span id="3"></span> 
 *You have now been introduced to linear functions. Starting with unit 3,
 you begin to find solutions for functions that form curves rather than

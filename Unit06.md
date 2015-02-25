@@ -1,4 +1,12 @@
+---
+layout: default
+title: "K12MATH011: Algebra II"
+course_description: "This course is an overview of the fundamentals of algebraic expressions, including adding, multiplying, factoring, and simplifying, solving equations and inequalities, performing operations on functions, and performing graphing and basic functional analysis."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Radical Functions** <span id="6"></span> 
+
 *Radical functions contain expressions under radical (nth root) signs.
 For instance f(x) =<span style="font-family: 'Comic Sans MS', cursive;">
 </span>*<span
