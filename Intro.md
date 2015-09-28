@@ -124,3 +124,4 @@ and so forth.
 - [Unit 7](https://legacy.saylor.org/k12math011/Unit07/)
 - [Unit 8](https://legacy.saylor.org/k12math011/Unit08/)
 - [Unit 9](https://legacy.saylor.org/k12math011/Unit09/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/K12/K12MATH011/K12MATH011-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/K12/K12MATH011/K12MATH011-FinalExam-Answers.html)
